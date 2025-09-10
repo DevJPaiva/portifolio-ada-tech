@@ -42,12 +42,12 @@ header #navbar .nav-links{
     gap : 2rem;
 }
 
-header #hero-h1{
+header #hero-section .hero-h1{
     color: #21243D;
     font-size: 44px;
 }
 
-header .hero-p{
+header #hero-section .hero-p{
     color: #555;
     font-size: 18px;
     margin: 1.5rem 0;
